@@ -6,12 +6,18 @@ Jonathan Lao's submission for Multiverse's Mars Rover take home challenge.
 
 ## Installation / How to run
 Make sure you have [Python3](https://www.python.org/downloads/) installed locally.
-Then run `python3 mars_rover.py`
+
+Then run:
+
+`python3 mars_rover.py`
+
 Input can be specified via `input.txt` and be colocated in the same directory.
+
 Output will generated in an `output.txt` file.
 
 ## Testing
 Run tests via:
+
 `python3 -m unittest test_mars_rover.py`
 
 ## Notes / Future Improvements
