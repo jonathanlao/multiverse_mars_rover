@@ -23,5 +23,5 @@ Run tests via:
 ## Notes / Future Improvements
 - TODO - More complicated test cases on larger grids and more commands
 - The assignment describes the form of the input, but not where the input comes from - so I just chose to pass it in via an `input.txt` file. We could also pass the input file as a cli argument or via stdin.
-- To keep it simple, the algorithm is written procedurally. But if we add more functionality to the mars rover, it may make sense to make this object oriented, with a MarsRover Class, methods for moving and turning, storing it's location in internal state, and instantiating a new rover for each line of input.
+- To keep it simple, the algorithm is written procedurally. But if we add more functionality to the mars rover, it may make sense to make this object oriented, with a MarsRover Class, methods for moving and turning, storing its location in internal state, and instantiating a new MarsRover for each line of input.
 
